@@ -5,7 +5,8 @@
     "branch": "ten"
   },
   {
-    "repository":  "vendor_asus",
+    "remote":      "github",
+    "repository":  "danascape/vendor_asus",
     "target_path": "vendor/asus",
     "branch": "ten"
   },
